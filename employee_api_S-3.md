@@ -58,7 +58,7 @@ RestartSec=5
 Environment=ENV_VAR_NAME=value  # Add your environment variables here
 LimitNOFILE=65536
 
-# Logging (optional, for better debugging)
+### Logging (optional, for better debugging)
 StandardOutput=syslog
 StandardError=syslog
 SyslogIdentifier=employee-api
