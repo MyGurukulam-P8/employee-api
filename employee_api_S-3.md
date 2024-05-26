@@ -9,7 +9,7 @@
 ## Table of Contents
 
 | Sr.No | Heading |
-|-------|---------|
+|:-------:|---------|
 | 1     | [Introduction](#introduction) |
 | 2     | [Prerequisites](#prerequisites) |
 | 3     | [Setup](#setup) |
